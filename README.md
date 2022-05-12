@@ -5,7 +5,7 @@ run the following commands
 ```
 sudo apt install python3 pip3 git
 pip install playsound
-git clone 
+git clone https://github.com/Artemis-Arrow/apt-music.git
 cd apt-music
 ```
 now open the apt-music file in your favorite text editor, and on line 4 set the variable to ether the file path or the url of the sound you want to play, for example set line 4 to
