@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 def play_sound():
-    sound = #ender here the path or the URL to the sound you want to play
+    sound = #enter here the path or the URL to the sound you want to play
     playsound(sound)
 
 import sys
